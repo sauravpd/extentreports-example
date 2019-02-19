@@ -1,5 +1,5 @@
-# extentreports-example
 
-Customisable HTML report with stepwise and pie chart representation.
+Markup :  # extentreports
 
-Displays the time taken for test case execution within the report.
+* Customisable HTML report with stepwise and pie chart representation.
+* Displays the time taken for test case execution within the report.
